@@ -32,13 +32,6 @@ html {
   margin-inline: auto;
 }
 
-#text {
-  -webkit-text-fill-color: var(--orange1-dark);
-  background-image: url(../images/);
-  background-clip: text;
-  background-clip: text;
-}
-
 a {
   text-decoration: none;
   color: var(--gray);
@@ -100,7 +93,7 @@ header {
   flex-direction: row-reverse;
 }
 
-#logo {
+.logo {
   display: none;
 }
 
@@ -610,13 +603,13 @@ footer .branding {
     flex-direction: row;
   }
 
-  #logo {
+  .logo {
     display: block;
     height: 60px;
     width: 60px;
   }
 
-  #logo span {
+  .logo span {
     font-weight: 200;
   }
 
