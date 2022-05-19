@@ -23,7 +23,10 @@ Google Dev Tools
 
 
 ## Live Version
-https://unyielding1.github.io/Portfolio-pair-programing/
+https://unyielding1.github.io/1st-Capstone/
+
+## Link To Loom Video
+https://www.loom.com/share/82de3338f9e740ba9000049095586547
 
 ## social Links
 
