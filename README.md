@@ -41,5 +41,10 @@ LinkedIn: https://www.linkedin.com/in/david-verde-3349b114b/
  
  https://linkedin.com/in/adagio07
 
+## Acknowledgements
 
+ Cindy Shin (template creator)
+ 
+ https://linkedin.com/in/adagio07
+ 
 This project is MIT licensed.
