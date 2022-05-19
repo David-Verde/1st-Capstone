@@ -23,7 +23,7 @@ Google Dev Tools
 
 
 ## Live Version
-https://unyielding1.github.io/Portfolio-pair-programing/
+https://unyielding1.github.io/1st-Capstone/
 
 ## social Links
 
