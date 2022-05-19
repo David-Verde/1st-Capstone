@@ -23,7 +23,7 @@ menuLinks.forEach((link) => link.addEventListener(
   (event) => toggleMenu(event, false),
 ));
 
-//  Speakers 
+//  Speakers
 const speakers = [
   {
     name: 'James Hetfiled',
